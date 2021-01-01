@@ -1,0 +1,22 @@
+{
+  "name": "express-delayed-rest-service",
+  "version": "1.0.0",
+  "description": "An Express JS delayed rest service ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "delay",
+    "rest",
+    "mock"
+  ],
+  "author": "Arvind",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
