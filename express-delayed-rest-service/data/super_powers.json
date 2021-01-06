@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "powers": "Super Strength, Fly, Durability, Weapons, Hand-to-Hand Combat",
+        "name": "Tony Stark",
+        "hero": "Iron Man"
+    },
+    {
+        "id": 2,
+        "powers": "Agility, Strength, Speed, Endurance, Reaction time",
+        "name": "Steve Rogers",
+        "hero": "Captain America"
+    },
+    {
+        "id": 3,
+        "powers": "Superhuman Strength, Durability, Healing Factor",
+        "name": "Bruce Banner",
+        "hero": "The Hulk"
+    },
+    {
+        "id": 4,
+        "powers": "Superhuman Strength, Speed, Stamina, Reflexes, Endurance, Durability",
+        "name": "King T'Challa",
+        "hero": "Black Panther"
+    },
+    {
+        "id": 5,
+        "powers": "Espionage, Infiltration, Subterfuge, Agility, Athletic",
+        "name": "Natasha Romanoff",
+        "hero": "Black Widow"
+    },
+    {
+        "id": 6,
+        "powers": "Super Strength, Super Speed, Flight, Immunity To Toxins, Super Stamina, Cosmic Awareness, Energy Projection And Absorption, Photon Fists, Seventh Sense, Binary",
+        "name": "Carol Danvers",
+        "hero": "Captain Marvel"
+    },
+    {
+        "id": 7,
+        "powers": "God Blast, Super Speed, Transformation, All-Tongue, Invulnerability, Superhuman Senses, Superhuman Healing, Earth Control, Mind Resistance, Mind Powers, Self-Sustenance, Superhuman Stamina, Warrior's Madness, Master Combatant, Teleportation",
+        "name": "Dr. Donald Blake",
+        "hero": "Thor"
+    }
+]

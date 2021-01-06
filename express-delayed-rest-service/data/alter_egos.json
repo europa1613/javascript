@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Tony Stark",
+        "hero": "Iron Man"
+    },
+    {
+        "id": 2,
+        "name": "Steve Rogers",
+        "hero": "Captain America"
+    },
+    {
+        "id": 3,
+        "name": "Bruce Banner",
+        "hero": "The Hulk"
+    },
+    {
+        "id": 4,
+        "name": "King T'Challa",
+        "hero": "Black Panther"
+    },
+    {
+        "id": 5,
+        "name": "Natasha Romanoff",
+        "hero": "Black Widow"
+    },
+    {
+        "id": 6,
+        "name": "Carol Danvers",
+        "hero": "Captain Marvel"
+    },
+    {
+        "id": 7,
+        "name": "Dr. Donald Blake",
+        "hero": "Thor"
+    }
+]
