@@ -72,6 +72,13 @@ app.get("/super-powers/:supeId", function (req, res) {
     //res.end();
 });
 
+app.get("/super-powers", function (req, res) {
+    res.setHeader("Content-Type", "application/json");
+    const delay = parseInt(req.query.delay, 10) || 0;
+    respondWithDelay(req, res, super_powers, delay);
+    //res.send(super_heroes);
+});
+
 app.get("/:count/jokes", function (req, res) {
     res.setHeader("Content-Type", "application/json");
     const count = parseInt(req.params.count, 10) || 1;
